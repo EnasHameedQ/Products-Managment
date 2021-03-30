@@ -1,0 +1,28 @@
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\bin\Debug\Products)managment.exe.config
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products)managment.csprojResolveAssemblyReference.cache
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products_managment.Properties.Resources.resources
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products)managment.csproj.GenerateResource.Cache
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\bin\Debug\Products)managment.exe
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\bin\Debug\Products)managment.pdb
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products_managment.PL.Form_LOGIN.resources
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products)managment.exe
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products)managment.pdb
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products_managment.PL.FRM_MIAN.resources
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products_managment.PL.FRM_ADD_PRODUCT.resources
+C:\Users\programmer\Documents\Visual Studio 2012\Projects\Products)managment\Products)managment\obj\Debug\Products_managment.PL.FRM_PRODUCTS.resources
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\bin\Debug\Products)managment.exe.config
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products)managment.exe
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products)managment.pdb
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\bin\Debug\Products)managment.exe
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\bin\Debug\Products)managment.pdb
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products)managment.csprojResolveAssemblyReference.cache
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products_managment.PL.Form_LOGIN.resources
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products_managment.PL.FRM_ADD_PRODUCT.resources
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products_managment.PL.FRM_MIAN.resources
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products_managment.PL.FRM_PRODUCTS.resources
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products_managment.Properties.Resources.resources
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products)managment.csproj.GenerateResource.Cache
+C:\Users\Enas Hameed\Desktop\Products)managment\Products)managment\obj\Debug\Products_managment.PL.FRM_PREVIEW.resources
+C:\Users\Enas Hameed\Desktop\مشروع المرئية\حتى المنتجات عدا التقارير\Products)managment\Products)managment\bin\Debug\Products)managment.exe.config
+C:\Users\Enas Hameed\Desktop\مشروع المرئية\حتى المنتجات عدا التقارير\Products)managment\Products)managment\obj\Debug\Products)managment.exe
+C:\Users\Enas Hameed\Desktop\مشروع المرئية\حتى المنتجات عدا التقارير\Products)managment\Products)managment\obj\Debug\Products)managment.pdb
